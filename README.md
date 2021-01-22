@@ -14,7 +14,7 @@ Ideas that help me to be a good developer:
 - Leave code better than you found it. A small step every day can do a miracle.
 - Be like a cat in a project, check every corner of the project, even deploy one.
 
-I can teach Python and unittests. 
+I can [teach](students.md) Python and unittests. 
 Can talk and share ideas on architecture, code organization, testing, Java, Kotlin,
 refactoring, technical debt, best practices and databases, infrastructure, algorithms and data structures, git, processes.
 
