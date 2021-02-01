@@ -14,6 +14,7 @@ Pros:
 Pros:
    - Focused on algorithms and performance
    - More focused on interview preparation
+
 Cons:
    - Most published solutions are bad in terms of code quality
 
