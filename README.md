@@ -23,23 +23,24 @@ I like doing new features and make broken things work.
 Fun fact: I have never posted a question on StackOverflow this is a too slow way to get an answer.
 
 ### My repositories
-Library to manage environment libraries.  
-One day I will find a suitable project where it can be used and will publish it. 
-https://github.com/Cjkjvfnby/declared_env
+- Library to manage environment variables.  
+  One day I will find a suitable project where it can be used and will publish it. 
+  https://github.com/Cjkjvfnby/declared_env
 
-Template for new Python projects. My set of linters and GitHub actions configured. 
-https://github.com/Cjkjvfnby/project_template
+- Template for new Python projects. My set of linters and GitHub actions configured. 
+  https://github.com/Cjkjvfnby/project_template
 
-Contribute to opensource project. Help with Python code. 
-https://github.com/freeorion/freeorion
+- Contribution to opensource project: Python code, CI, tools. 
+  https://github.com/freeorion/freeorion
 
-Other are forks, study assignments, and lectures presentations.
+- Other: forks, study assignments, and presentations for lectures.
 
-I know how to build and support and operate bicycles. The real one, not in code.
-Do photography and traveling as a second hobby. 
-![](img/pompeii.jpg)
-![](img/working.jpg)
-![](img/carpets.jpg)
+### Other me
+- I know how to build, support, and operate bicycles. The real one, not in the code.
+- I do photography and traveling as a second hobby. 
+  ![](img/pompeii.jpg)
+  ![](img/working.jpg)
+  ![](img/carpets.jpg)
 
 
 
