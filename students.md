@@ -25,26 +25,14 @@ Cons:
   understand other solutions (it might be hard), 
   read about libraries, algorithms and data structures used in solutions. 
 
-
 Here is some easy tasks with my solution in Python to start with.
 
-### https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/1026790/Python3-O(n)-time-O(1)-space
-
-### https://leetcode.com/problems/invert-binary-tree/
-https://leetcode.com/problems/invert-binary-tree/discuss/1026810/Python3-O(n)-memory-and-space
-
-### https://leetcode.com/problems/repeated-substring-pattern/
-https://leetcode.com/problems/repeated-substring-pattern/discuss/1026908/Python3-Simple-solution-with-explanation
-
-### https://leetcode.com/problems/determine-if-string-halves-are-alike/
-https://leetcode.com/problems/determine-if-string-halves-are-alike/discuss/1028449/Python3-simple-solution-without-for-and-if-expressions
-
-### https://leetcode.com/problems/largest-substring-between-two-equal-characters/
-https://leetcode.com/problems/largest-substring-between-two-equal-characters/discuss/1028473/Python3-simple-solution-with-dict
-
-### https://leetcode.com/problems/robot-return-to-origin/
-https://leetcode.com/problems/robot-return-to-origin/discuss/1029512/Python3-solution-with-Counter
-
-### https://leetcode.com/problems/set-mismatch/submissions/
-https://leetcode.com/problems/set-mismatch/discuss/1029515/Python3-simple-solution
+| Task | Solution |
+| --- | --- |
+| [find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [solution](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/1026790/Python3-O(n)-time-O(1)-space) |
+| [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/) | [solution](https://leetcode.com/problems/invert-binary-tree/discuss/1026810/Python3-O(n)-memory-and-space) |
+| [repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [solution](https://leetcode.com/problems/repeated-substring-pattern/discuss/1026908/Python3-Simple-solution-with-explanation) |
+| [determine-if-string-halves-are-alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [solution](https://leetcode.com/problems/determine-if-string-halves-are-alike/discuss/1028449/Python3-simple-solution-without-for-and-if-expressions) |
+| [largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [solution](https://leetcode.com/problems/largest-substring-between-two-equal-characters/discuss/1028473/Python3-simple-solution-with-dict) |
+| [robot-return-to-origin](https://leetcode.com/problems/robot-return-to-origin/) | [solution](https://leetcode.com/problems/robot-return-to-origin/discuss/1029512/Python3-solution-with-Counter) |
+| [submissions](https://leetcode.com/problems/set-mismatch/submissions/) | [solution](https://leetcode.com/problems/set-mismatch/discuss/1029515/Python3-simple-solution) |
