@@ -23,12 +23,16 @@ Lector goes to the details which should be taken in account, with examples.
 
 There is a lot of drama in the lecture. It makes more interesting to watch it.
 
+## [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+Video about how to exploit the human mind to put more knowledge into it. Worth watching.
+I eat, sleep, work, play, have fun, study in the same place, but if you are aware you can do it.
+Part "Marty come to lay upon me" is absolutely about me, but I know how to say No!
+
 ## [More Testable Code with the Hexagonal Architecture](https://www.youtube.com/watch?v=ujb_O6myknY)
 Nice explanation with SpringBoot and Java.
 
 If you would like to start hexagonal architecture with SpringBoot,
 this video and author github repository is a good starting point.
-
 
 ## [Егор Бугаенко — Не думайте о качестве, думайте о скорости](https://www.youtube.com/watch?v=jFSSV1pdZTw)
 Очень необычный докладчик, делит всё на чёрное и белое. Названия докладов выбирает так, чтобы привлечь внимание.
