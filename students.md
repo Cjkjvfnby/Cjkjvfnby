@@ -35,4 +35,5 @@ Here is some easy tasks with my solution in Python to start with.
 | [determine-if-string-halves-are-alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [solution](https://leetcode.com/problems/determine-if-string-halves-are-alike/discuss/1028449/Python3-simple-solution-without-for-and-if-expressions) |
 | [largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [solution](https://leetcode.com/problems/largest-substring-between-two-equal-characters/discuss/1028473/Python3-simple-solution-with-dict) |
 | [robot-return-to-origin](https://leetcode.com/problems/robot-return-to-origin/) | [solution](https://leetcode.com/problems/robot-return-to-origin/discuss/1029512/Python3-solution-with-Counter) |
-| [submissions](https://leetcode.com/problems/set-mismatch/submissions/) | [solution](https://leetcode.com/problems/set-mismatch/discuss/1029515/Python3-simple-solution) |
+| [set-mismatch](https://leetcode.com/problems/set-mismatch/) | [solution](https://leetcode.com/problems/set-mismatch/discuss/1029515/Python3-simple-solution) |
+| [long-pressed-name](https://leetcode.com/problems/long-pressed-name/) | [solution](https://leetcode.com/problems/long-pressed-name/discuss/1069011/Python3-first-approach-but-with-O(1)-space) |
