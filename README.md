@@ -35,6 +35,8 @@ Fun fact: I have never posted a question on StackOverflow this is a too slow way
 
 - Other: forks, study assignments, and presentations for lectures.
 
+- Code samples to explain [async](https://gist.github.com/Cjkjvfnby/3206e9ec1554b65ad9db82c3f929ae5d) 
+
 ### Other me
 - I know how to build, support, and operate bicycles. The real one, not in the code.
 - I do photography and traveling as a second hobby. 
