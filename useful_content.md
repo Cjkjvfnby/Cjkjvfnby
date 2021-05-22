@@ -34,6 +34,17 @@ Nice explanation with SpringBoot and Java.
 If you would like to start hexagonal architecture with SpringBoot,
 this video and author github repository is a good starting point.
 
+## [Kevlin Henney — What we talk about when we talk about unit testing](https://www.youtube.com/watch?v=-WWIeXmm4ec)
+A good explanation of TTD phases (Write test that fails - > Specify what you want)
+Nice explanation why developers should write tests themselves with real life examples.
+Som funny facts: How compile and library terms were introduced.
+
+## [Top To Down, Left To Right || James Powell](https://www.youtube.com/watch?v=DlgbPLvBs30)
+This talk has a big quiz at the beginning and detailed explanation later.
+
+## [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
+Play with various collections.
+
 ## [Егор Бугаенко — Не думайте о качестве, думайте о скорости](https://www.youtube.com/watch?v=jFSSV1pdZTw)
 Очень необычный докладчик, делит всё на чёрное и белое. Названия докладов выбирает так, чтобы привлечь внимание.
 
