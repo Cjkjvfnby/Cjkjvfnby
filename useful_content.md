@@ -6,7 +6,10 @@
 ## [Martin Fowler – What Does Tech Excellence Look Like? ](https://www.youtube.com/watch?v=Avs70dZ3Vlk)
 
 ## [More Testable Code with the Hexagonal Architecture](https://www.youtube.com/watch?v=ujb_O6myknY)
-Good explanation of the Hexagonal architecture with examples on Java. Mentioned repository can be found on GitHub.   
+Nice explanation with SpringBoot and Java.
+
+If you would like to start hexagonal architecture with SpringBoot,
+this video and author github repository is a good starting point.
 
 ## [Verifying Microservice Integrations with Contract Testing](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
 Nice presentation to get basic idea how contract testing may look like.
@@ -28,12 +31,6 @@ Video about how to exploit the human mind to put more knowledge into it. Worth w
 I eat, sleep, work, play, have fun, study in the same place, but if you are aware you can do it.
 Part "Marty come to lay upon me" is absolutely about me, but I know how to say No!
 
-## [More Testable Code with the Hexagonal Architecture](https://www.youtube.com/watch?v=ujb_O6myknY)
-Nice explanation with SpringBoot and Java.
-
-If you would like to start hexagonal architecture with SpringBoot,
-this video and author github repository is a good starting point.
-
 ## [Kevlin Henney — What we talk about when we talk about unit testing](https://www.youtube.com/watch?v=-WWIeXmm4ec)
 A good explanation of TTD phases (Write test that fails - > Specify what you want)
 Nice explanation why developers should write tests themselves with real life examples.
@@ -44,6 +41,9 @@ This talk has a big quiz at the beginning and detailed explanation later.
 
 ## [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
 Play with various collections.
+
+## [Building Fault Tolerant Microservices](https://www.youtube.com/watch?v=pKO33eMwXRs)
+Adding fault tolerance step by step. Good explanation with examples why do you need it.
 
 ## [Егор Бугаенко — Не думайте о качестве, думайте о скорости](https://www.youtube.com/watch?v=jFSSV1pdZTw)
 Очень необычный докладчик, делит всё на чёрное и белое. Названия докладов выбирает так, чтобы привлечь внимание.
