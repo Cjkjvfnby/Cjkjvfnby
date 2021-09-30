@@ -42,6 +42,19 @@ This talk has a big quiz at the beginning and detailed explanation later.
 ## [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
 Play with various collections.
 
+## [Object Oriented Programming from scratch (four times) by Raymond Hettinger](https://www.youtube.com/watch?v=8moWQ1561FY&t=2661s)
+A nice talk that starts from the problem and leads to the solution. 
+For times in a row. You can see how chaos is organized to the things 
+that are widely used by programmers in the 21 century. 
+You start using OOP at full power when you start coding the Python.
+
+Section of QA is pretty intresting. 
+
+Summary:  
+Good code to read: [bottle](https://github.com/bottlepy/bottle), [collections](https://github.com/python/cpython/blob/main/Lib/collections/__init__.py), [functools](https://github.com/python/cpython/blob/main/Lib/functools.py)
+Language to play a bit to change your way to code: Forth, APL, Haskel, Prolog (be careful they can damage your brain).
+Advice: If you want to grow just don't get stuck in a routine.
+
 ## [Building Fault Tolerant Microservices](https://www.youtube.com/watch?v=pKO33eMwXRs)
 Adding fault tolerance step by step. Good explanation with examples why do you need it.
 
