@@ -42,6 +42,15 @@ This talk has a big quiz at the beginning and detailed explanation later.
 ## [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
 Play with various collections.
 
+## [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
+А hilarious video by Bret Victor, he time traveled 40 years back and showed the whole bunch of opportunities that were open back then.
+This video is started as a comedy and ends up touching deep problems.
+My personal award for the best slide showing technique I have ever seen.
+
+## [Procedural Programming: It’s Back? It Never Went Away - Kevlin Henney [ACCU 2018]](https://www.youtube.com/watch?v=mrY6xrWp3Gs)
+The talk about history of programming. All good staff were invented back when. Procedural programming is not bad, just people who use it in wrong context complain about it. One of the best explanation of the Liskof substitution principle. 
+
+
 ## [Object Oriented Programming from scratch (four times) by Raymond Hettinger](https://www.youtube.com/watch?v=8moWQ1561FY&t=2661s)
 A nice talk that starts from the problem and leads to the solution. 
 For times in a row. You can see how chaos is organized to the things 
