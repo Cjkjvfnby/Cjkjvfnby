@@ -83,4 +83,5 @@ Adding fault tolerance step by step. Good explanation with examples why do you n
 
 
 # Articles
-[Dead Code Must Be Removed Dead code needs to be found and removed](https://www.infoq.com/news/2017/02/dead-code/)
+- [Dead Code Must Be Removed](https://www.infoq.com/news/2017/02/dead-code/)
+- [Overengineering can kill your product](https://www.mindtheproduct.com/overengineering-can-kill-your-product/)
