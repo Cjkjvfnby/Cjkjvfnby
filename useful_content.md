@@ -67,11 +67,9 @@ Advice: If you want to grow just don't get stuck in a routine.
 Adding fault tolerance step by step. Good explanation with examples why do you need it.
 
 ## [Pro tips for writing great unit tests - Raymond Hettinger](https://www.youtube.com/watch?v=jSIsyMd2-RY)
-There is an awesome part when Raymond takes code written in simple style and converts this to idiomatic Python.
-A couple of lines of code with varialbes are converted to a single line, and this single line is super simple and readable.
+There is a part when Raymond takes code written in a simple style and converts this to idiomatic Python.  A couple of lines of code with variables are converted to a single line, and this single line is super simple and readable.
 
-It is something that I use often, and I see that people who comes from other languages like C++, Java and Go are not aware of that.
-Python could be very expressive and readable language if you use it write. 
+It is something that I use often, and I see that people who come from other languages like C++, Java, and Go are not aware of that.  Python could be a very expressive and readable language if you use it to write. 
 
 ## [Егор Бугаенко — Не думайте о качестве, думайте о скорости](https://www.youtube.com/watch?v=jFSSV1pdZTw)
 Очень необычный докладчик, делит всё на чёрное и белое. Названия докладов выбирает так, чтобы привлечь внимание.
