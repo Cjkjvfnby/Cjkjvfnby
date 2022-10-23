@@ -50,7 +50,6 @@ My personal award for the best slide showing technique I have ever seen.
 ## [Procedural Programming: It’s Back? It Never Went Away - Kevlin Henney [ACCU 2018]](https://www.youtube.com/watch?v=mrY6xrWp3Gs)
 The talk about history of programming. All good staff were invented back when. Procedural programming is not bad, just people who use it in wrong context complain about it. One of the best explanation of the Liskof substitution principle. 
 
-
 ## [Object Oriented Programming from scratch (four times) by Raymond Hettinger](https://www.youtube.com/watch?v=8moWQ1561FY&t=2661s)
 A nice talk that starts from the problem and leads to the solution. 
 For times in a row. You can see how chaos is organized to the things 
@@ -66,6 +65,13 @@ Advice: If you want to grow just don't get stuck in a routine.
 
 ## [Building Fault Tolerant Microservices](https://www.youtube.com/watch?v=pKO33eMwXRs)
 Adding fault tolerance step by step. Good explanation with examples why do you need it.
+
+## [Pro tips for writing great unit tests - Raymond Hettinger](https://www.youtube.com/watch?v=jSIsyMd2-RY)
+There is an awesome part when Raymond takes code written in simple style and converts this to idiomatic Python.
+A couple of lines of code with varialbes are converted to a single line, and this single line is super simple and readable.
+
+It is something that I use often, and I see that people who comes from other languages like C++, Java and Go are not aware of that.
+Python could be very expressive and readable language if you use it write. 
 
 ## [Егор Бугаенко — Не думайте о качестве, думайте о скорости](https://www.youtube.com/watch?v=jFSSV1pdZTw)
 Очень необычный докладчик, делит всё на чёрное и белое. Названия докладов выбирает так, чтобы привлечь внимание.
