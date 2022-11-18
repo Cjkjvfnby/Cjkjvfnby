@@ -71,6 +71,13 @@ There is a part when Raymond takes code written in a simple style and converts t
 
 It is something that I use often, and I see that people who come from other languages like C++, Java, and Go are not aware of that.  Python could be a very expressive and readable language if you use it to write. 
 
+## [Agile Book Club: Refactoring (with Martin Fowler)](https://www.youtube.com/watch?v=sVla5U5iP8E)
+Things Martin says about refactoring is very close for me.
+
+- The good way to understand code is to refactor it. You might not end up with PR, but you will get knowledge.
+- Refactoring should be part of development. Otherwise it will rot in backlog.
+- If something did not work, revert and start in smaller steps.
+
 ## [Егор Бугаенко — Не думайте о качестве, думайте о скорости](https://www.youtube.com/watch?v=jFSSV1pdZTw)
 Очень необычный докладчик, делит всё на чёрное и белое. Названия докладов выбирает так, чтобы привлечь внимание.
 
