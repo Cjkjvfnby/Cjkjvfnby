@@ -15,7 +15,7 @@ A lot of useful recipies
 ## [The Mental Game of Python - Raymond Hettinger](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
 Awesomne tutorial on how to werit code.
 
-## [Keynote - Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw)
+## [Preventing, Finding, and Fixing Bugs On a Time Budget](https://www.youtube.com/watch?v=ARKbfWk4Xyw)
 Thee are alot of great tool that could help you. I use the most of them.
 
 ## [Pro tips for writing great unit tests - Raymond Hettinger](https://www.youtube.com/watch?v=jSIsyMd2-RY)
@@ -29,7 +29,7 @@ All you need to know about dicts.
 ## [Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg&t=1505s)
 How to work with classes.
 
-## [Raymond Hettinger Super considered super PyCon 2015]https://www.youtube.com/watch?v=xKgELVmrqfs
+## [Raymond Hettinger Super considered super PyCon 2015](https://www.youtube.com/watch?v=xKgELVmrqfs)
 How inheritance works.
 
 ## [Object Oriented Programming from scratch (four times) by Raymond Hettinger](https://www.youtube.com/watch?v=8moWQ1561FY&t=2661s)
